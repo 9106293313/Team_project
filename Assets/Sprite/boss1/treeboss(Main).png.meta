@@ -1,0 +1,1392 @@
+fileFormatVersion: 2
+guid: 0e4fac49eb4e93c46b91a94ad626ef5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5634337909375506663
+    second: treeboss(Main)_0
+  - first:
+      213: -2720581097116681845
+    second: treeboss(Main)_1
+  - first:
+      213: 8681250056444943987
+    second: treeboss(Main)_2
+  - first:
+      213: 1097610953344184969
+    second: treeboss(Main)_3
+  - first:
+      213: -3690038334495842162
+    second: treeboss(Main)_4
+  - first:
+      213: 7292061201869217678
+    second: treeboss(Main)_5
+  - first:
+      213: -4689158879065272222
+    second: treeboss(Main)_6
+  - first:
+      213: 7649076281136145318
+    second: treeboss(Main)_7
+  - first:
+      213: -3654607321664223521
+    second: treeboss(Main)_8
+  - first:
+      213: 8529964540034438811
+    second: treeboss(Main)_9
+  - first:
+      213: 8000263121815839047
+    second: treeboss(Main)_10
+  - first:
+      213: 6443381907956164262
+    second: treeboss(Main)_11
+  - first:
+      213: 7785842593698030824
+    second: treeboss(Main)_12
+  - first:
+      213: -180678738942293367
+    second: treeboss(Main)_13
+  - first:
+      213: -710571182299589649
+    second: treeboss(Main)_14
+  - first:
+      213: -2539505033859479665
+    second: treeboss(Main)_15
+  - first:
+      213: -6487581355122594899
+    second: treeboss(Main)_16
+  - first:
+      213: -6740709270576296016
+    second: treeboss(Main)_17
+  - first:
+      213: 7960518865987948099
+    second: treeboss(Main)_18
+  - first:
+      213: 2082194943492539544
+    second: treeboss(Main)_19
+  - first:
+      213: 7828695114994659858
+    second: treeboss(Main)_20
+  - first:
+      213: -2597727377524910074
+    second: treeboss(Main)_21
+  - first:
+      213: 4569292112858746811
+    second: treeboss(Main)_22
+  - first:
+      213: -8096284274058679310
+    second: treeboss(Main)_23
+  - first:
+      213: -7876346336163072869
+    second: treeboss(Main)_24
+  - first:
+      213: 4076152962439640850
+    second: treeboss(Main)_25
+  - first:
+      213: 839775418808037420
+    second: treeboss(Main)_26
+  - first:
+      213: -3775356351826230014
+    second: treeboss(Main)_27
+  - first:
+      213: -5059929803081501350
+    second: treeboss(Main)_28
+  - first:
+      213: 8635655613898381832
+    second: treeboss(Main)_29
+  - first:
+      213: -5886708637210350184
+    second: treeboss(Main)_30
+  - first:
+      213: 587928245471341117
+    second: treeboss(Main)_31
+  - first:
+      213: -6716672887666037390
+    second: treeboss(Main)_32
+  - first:
+      213: -2349231593438159611
+    second: treeboss(Main)_33
+  - first:
+      213: -4538628860791495147
+    second: treeboss(Main)_34
+  - first:
+      213: 5214329244004067231
+    second: treeboss(Main)_35
+  - first:
+      213: -5194015837302128146
+    second: treeboss(Main)_36
+  - first:
+      213: 2318979302274908745
+    second: treeboss(Main)_37
+  - first:
+      213: 6576847901582675773
+    second: treeboss(Main)_38
+  - first:
+      213: -1806442531970705790
+    second: treeboss(Main)_39
+  - first:
+      213: -2966794703580835833
+    second: treeboss(Main)_40
+  - first:
+      213: 6342322824000506320
+    second: treeboss(Main)_41
+  - first:
+      213: -5514236063210546912
+    second: treeboss(Main)_42
+  - first:
+      213: -1527117829123307753
+    second: treeboss(Main)_43
+  - first:
+      213: -1808929925469251395
+    second: treeboss(Main)_44
+  - first:
+      213: 3719734367085667586
+    second: treeboss(Main)_45
+  - first:
+      213: -3399550123622011692
+    second: treeboss(Main)_46
+  - first:
+      213: -1658496750918559276
+    second: treeboss(Main)_47
+  - first:
+      213: -3252669544916228622
+    second: treeboss(Main)_48
+  - first:
+      213: -3205253988192056977
+    second: treeboss(Main)_49
+  - first:
+      213: 8493047545346523280
+    second: treeboss(Main)_50
+  - first:
+      213: -7409873872378432567
+    second: treeboss(Main)_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: treeboss(Main)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4240
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e818d00a70313e40800000000000000
+      internalID: 5634337909375506663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 4240
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89b7bb08ed8e3ad0800000000000000
+      internalID: -2720581097116681845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4240
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e9dbc5eeef97870800000000000000
+      internalID: 8681250056444943987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_3
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 4240
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98278afb85f7b3f00800000000000000
+      internalID: 1097610953344184969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_4
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4240
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e802dc87fa95accc0800000000000000
+      internalID: -3690038334495842162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3392
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f92d1370b923560800000000000000
+      internalID: 7292061201869217678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 3392
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26012fdf7d2cceeb0800000000000000
+      internalID: -4689158879065272222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_7
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3392
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a36cf4e95af62a60800000000000000
+      internalID: 7649076281136145318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_8
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3392
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd689aef00a384dc0800000000000000
+      internalID: -3654607321664223521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_9
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3392
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b965e633e85806670800000000000000
+      internalID: 8529964540034438811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_10
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3392
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741ad7d0ce4a60f60800000000000000
+      internalID: 8000263121815839047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_11
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3392
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6e7efe4bd7b6950800000000000000
+      internalID: 6443381907956164262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_12
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 3392
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e42a7a769edc0c60800000000000000
+      internalID: 7785842593698030824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_13
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 3392
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a01eae4a91e7df0800000000000000
+      internalID: -180678738942293367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2544
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe35763464b8326f0800000000000000
+      internalID: -710571182299589649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2544
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f874d7760add1ccd0800000000000000
+      internalID: -2539505033859479665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2544
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab6874512b77f5a0800000000000000
+      internalID: -6487581355122594899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_17
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2544
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf0e19d1a03472a0800000000000000
+      internalID: -6740709270576296016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_18
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2544
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ec1036bb1797e60800000000000000
+      internalID: 7960518865987948099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_19
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2544
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894ccf7e44175ec10800000000000000
+      internalID: 2082194943492539544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_20
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2544
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212b7189abc15ac60800000000000000
+      internalID: 7828695114994659858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_21
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 2544
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6081257a6b403fbd0800000000000000
+      internalID: -2597727377524910074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1696
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf80fda7f2696f30800000000000000
+      internalID: 4569292112858746811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_23
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1696
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fba624495834af80800000000000000
+      internalID: -8096284274058679310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_24
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1696
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94fc09ecb891b290800000000000000
+      internalID: -7876346336163072869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_25
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1696
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217fe50e587619830800000000000000
+      internalID: 4076152962439640850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_26
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1696
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2078294b4b77ab00800000000000000
+      internalID: 839775418808037420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20502e4966d3b9bc0800000000000000
+      internalID: -3775356351826230014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 848
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a553aea17a487c9b0800000000000000
+      internalID: -5059929803081501350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_29
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 848
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a5505f60308d770800000000000000
+      internalID: 8635655613898381832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_30
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 848
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d6adefea53e4ea0800000000000000
+      internalID: -5886708637210350184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_31
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 848
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3aecb0df9db82800800000000000000
+      internalID: 587928245471341117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_32
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 848
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d2b2a589599c2a0800000000000000
+      internalID: -6716672887666037390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_33
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 848
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d5ef1005ad56fd0800000000000000
+      internalID: -2349231593438159611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_34
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 848
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516ef29091d8301c0800000000000000
+      internalID: -4538628860791495147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_35
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 848
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f972bca12d40d5840800000000000000
+      internalID: 5214329244004067231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_36
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 848
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee18ad37d162be7b0800000000000000
+      internalID: -5194015837302128146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_37
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 848
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9424491936bae2020800000000000000
+      internalID: 2318979302274908745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_38
+      rect:
+        serializedVersion: 2
+        x: 6600
+        y: 848
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fcb932258a54b50800000000000000
+      internalID: 6576847901582675773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_39
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 848
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2869abe861a3ee6e0800000000000000
+      internalID: -1806442531970705790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_40
+      rect:
+        serializedVersion: 2
+        x: 7800
+        y: 848
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700dd839fe3d3d6d0800000000000000
+      internalID: -2966794703580835833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_41
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 848
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9076f5105740850800000000000000
+      internalID: 6342322824000506320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_42
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 848
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029dfa4248f7973b0800000000000000
+      internalID: -5514236063210546912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71780f8ec669ecae0800000000000000
+      internalID: -1527117829123307753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_44
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8d4d021d365e6e0800000000000000
+      internalID: -1808929925469251395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_45
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20524f8e2b62f9330800000000000000
+      internalID: 3719734367085667586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_46
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcef559c2f52d0d0800000000000000
+      internalID: -3399550123622011692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_47
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d91c5cfdf5dbf8e0800000000000000
+      internalID: -1658496750918559276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_48
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5698348423cd2d0800000000000000
+      internalID: -3252669544916228622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_49
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6988eada76a483d0800000000000000
+      internalID: -3205253988192056977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_50
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 0
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09002e09ebd5dd570800000000000000
+      internalID: 8493047545346523280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: treeboss(Main)_51
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 0
+        width: 600
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c37f66e8f6da2990800000000000000
+      internalID: -7409873872378432567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7c004502694392b43964565f0ee8f523
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
